@@ -1,0 +1,4 @@
+.env
+solar-master-env
+.vscode/
+__pycache__/
